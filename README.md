@@ -1,4 +1,15 @@
 # Movie_Info
 To be written...
-## Sources
-links...
+## References and Libraries 
+Google Custom Search Engine(CSE):
+- Website: https://developers.google.com/custom-search/
+- Useful docs for cse.list(): https://developers.google.com/custom-search/v1/cse/list
+Google API Client Python:
+- Official github: https://github.com/googleapis/google-api-python-client
+- Implementation: https://www.youtube.com/watch?v=ScdA3q9y2Y8&t=321s
+Embed Image Into Table:
+- https://stackoverflow.com/questions/47113934/how-to-display-table-with-text-and-images-in-jupyter-notebook
+Pandas Library (Table Format): 
+- https://pandas.pydata.org/pandas-docs/stable/api.html#style
+- DataFrame: https://www.tutorialspoint.com/python_pandas/python_pandas_dataframe.htm
+
