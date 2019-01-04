@@ -4,7 +4,7 @@ To be written...
 
 Google Custom Search Engine(CSE):
 - Website: https://developers.google.com/custom-search/
-- Useful docs for cse.list(): https://developers.google.com/custom-search/v1/cse/list
+- Useful docs for parsing search result: https://developers.google.com/custom-search/v1/cse/list
 
 Google API Client Python:
 - Official github: https://github.com/googleapis/google-api-python-client
