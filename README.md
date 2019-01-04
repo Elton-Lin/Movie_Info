@@ -1,5 +1,6 @@
 # Movie_Info
 To be written...
+1. register a Google API Key: link
 ## References and Libraries 
 
 Google Custom Search Engine(CSE):
