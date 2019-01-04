@@ -2,6 +2,8 @@
 To be written...
 Setup
 1. register a Google JSON API Key: https://developers.google.com/custom-search/v1/overview
+
+Note: replace 1.local path in convert_image 2. api_key 3. Movie title
 ## Libraries 
 some here
 ## References 
