@@ -1,6 +1,6 @@
 # Movie_Info
 To be written...
-1. register a Google API Key: link
+1. register a Google JSON API Key: https://developers.google.com/custom-search/v1/overview
 ## Libraries 
 some here
 ## References 
