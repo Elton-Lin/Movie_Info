@@ -1,7 +1,9 @@
 # Movie_Info
 Utilizing google custom search engine to create a narrower movie search results and its api client to scrape the results for essential information for a movie search - poster, rating, reviews, wikipedia page, and trailer, and display them with a table.
 
-To be improved upon: 1. Search an array of movies and display rows of results. 2. Display part of the content instead of only the links.
+To be improved upon in the future: 1. Search an array of movies and display rows of results. 2. Display part of the content instead of only the links in the table, if possible.
+
+Any kind of advice is very welcome - email me.
 ## Setup
 1. Install Jupyter Notebook (with Anaconda) or use the online version: https://jupyter.org/index.html
 2. register a Google JSON API Key: https://developers.google.com/custom-search/v1/overview (including pricing for over 100 search/day)
