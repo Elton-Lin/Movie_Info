@@ -1,11 +1,13 @@
 # Movie_Info
 To be written...
-Setup
-1. register a Google JSON API Key: https://developers.google.com/custom-search/v1/overview
+## Setup
+1. Install Jupyter Notebook (with Anaconda) or use the online version: https://jupyter.org/index.html
+2. register a Google JSON API Key: https://developers.google.com/custom-search/v1/overview
+3. Clone or copy the lines in [movie_info.ipynb](/movie_info.ipynb) and run the main program, sample code is provided on the bottom.
 
 Note: replace 1.local path in convert_image 2. api_key 3. Movie title
 ## Libraries 
-some here
+some here@@
 ## References 
 
 Google Custom Search Engine(CSE):
